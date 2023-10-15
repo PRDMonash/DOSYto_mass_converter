@@ -1,12 +1,23 @@
-pSty,d-chloroform,0.46,-7.97,0.01,0.01,25,first name,doi1
-pSty,d-toluene,0.51,-7.82,0.01,0.01,25,first name,doi2
-pSty,d-benzene,0.49,-7.94,0.02,0.02,25,first name,doi3
-pSty,d-THF,0.42,-8.07,0.02,0.01,25,first name,doi4
-pSty,d-acetone,0.43,-7.78,0.02,0.02,25,first name,doi5
-PEG,d-chloroform,0.45,-8.04,0.02,0.01,25,first name,doi6
-PEG,D2O,0.49,-8.23,0.01,0.01,25,first name,doi7
-PEG,d-THF,0.46,-7.94,0.02,0.01,25,first name,doi8
-PEG,d-ACN,0.44,-7.88,0.03,0.01,25,first name,doi9
-PEG,d-methanol,0.45,-8.32,0.01,0.01,25,first name,doi10
-PEG,d-acetone,0.41,-7.94,0.02,0.01,25,first name,doi11
-pMMA,d-toluene,0.51,-7.82,0.01,0.01,25,first name,doi2
+pSty,d-chloroform,0.46,-7.97,0.01,0.01,25,Voorter et al.,doi.org/10.1002/anie.202114536
+pSty,d-toluene,0.51,-7.82,0.01,0.01,25,Voorter et al.,doi.org/10.1002/anie.202114536
+pSty,d-toluene,0.49,-7.94,0.02,0.02,25,Voorter et al.,doi.org/10.1002/anie.202114536
+pSty,d-THF,0.42,-8.07,0.02,0.01,25,Voorter et al.,doi.org/10.1002/anie.202114536
+pSty,d-acetone,0.43,-7.78,0.02,0.02,25,Voorter et al.,doi.org/10.1002/anie.202114536
+PEG,d-chloroform,0.45,-8.04,0.02,0.01,25,Voorter et al.,doi.org/10.1002/anie.202114536
+PEG,D2O,0.49,-8.23,0.01,0.01,25,Voorter et al.,doi.org/10.1002/anie.202114536
+PEG,d-THF,0.46,-7.94,0.02,0.01,25,Voorter et al.,doi.org/10.1002/anie.202114536
+PEG,d-ACN,0.44,-7.88,0.03,0.01,25,Voorter et al.,doi.org/10.1002/anie.202114536
+PEG,d-methanol,0.45,-8.32,0.01,0.01,25,Voorter et al.,doi.org/10.1002/anie.202114536
+PEG,d-acetone,0.41,-7.94,0.02,0.01,25,Voorter et al.,doi.org/10.1002/anie.202114536
+pMA,d-toluene,0.5,-7.72,0.01,0.01,25,Vrijsen et al.,doi.org/10.1039/D0PY00475H
+dextrane,D2O,0.47,-8.14,0.01,0.01,25,Groves et al.,doi.org/10.1039/C7PY01577A
+pullane,D2O,0.49,-8.2,0.01,0.01,25,Viel et al.,doi.org/10.1021/bm0342638
+pMMA,d-toluene,0.43,-8.11,0.01,0.01,25,Voorter et al.,in_press
+pMMA,d-benzene,0.48,-7.91,0.01,0.01,25,Voorter et al.,in_press
+pMMA,d-acetone,0.44,-7.74,0.01,0.01,25,Voorter et al.,in_press
+pMMA,d-THF,0.43,-8.02,0.01,0.01,25,Voorter et al.,in_press
+pBA,d-benzene,0.51,-7.83,0.01,0.01,25,Voorter et al.,in_press
+pBA,d-acetone,0.5,-7.56,0.01,0.01,25,Voorter et al.,in_press
+pBA,d-chloroform,0.5,-7.86,0.01,0.01,25,Voorter et al.,in_press
+pPEGMEA,D2O,0.47,-8.31,0.02,0.01,25,Voorter et al.,in_press
+pPEGMEA,d-acetone,0.39,-8.01,0.02,0.01,25,Voorter et al.,in_press
